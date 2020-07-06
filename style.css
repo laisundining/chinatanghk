@@ -12,7 +12,7 @@ body{
 
 #userPhoto{
     width: 300px;
-    height: 300px;
+    height: auto;
     display: block;
     margin: 35px auto 20px;
     border-radius: 50%;
